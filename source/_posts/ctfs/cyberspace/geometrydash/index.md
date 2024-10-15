@@ -6,7 +6,6 @@ tags:
   - Cyberspace
   - Writeups
 cover: "/images/gd1.png"
-category: CTFs
 ---
 
 This challenge was Forensics Category challenge in CyberSpace CTF 2024 in this challenge we were given a .DAT name ( cat CCLocalLevels.dat) file which was the data of the Geometry Dash.
