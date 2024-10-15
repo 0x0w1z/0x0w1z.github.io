@@ -2,7 +2,7 @@
 title: "CyberSpace Geometry Dash 2.1 CTF"
 date: 2024-09-03
 draft: false
-Tags:
+tags:
   - Cyberspace
   - Writeups
 cover: "/images/gd1.png"

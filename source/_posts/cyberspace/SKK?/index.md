@@ -2,10 +2,11 @@
 title: "CyberSpace SKK? CTF"
 date: 2024-09-03
 draft: false
-Tags:
+tags:
   - Cyberspace
   - Writeups
 cover: "images/2.png"
+category: CTFs
 ---
 
 In this challenge by CyberSpace we were given a picture named enc.png and the python source code which was used to add shapes or used make the picture pixelated, the encoded picture looked like this.
