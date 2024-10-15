@@ -14,7 +14,7 @@ info:
   # Author name
   author: 0x0w1z
   # Site URL
-  url: https://saramsrauniyar.com.np
+  url: https://0x0w1zx.netlify.app
 # BASIC INFORMATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 # IMAGE CONFIGURATION >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
@@ -36,7 +36,7 @@ colors:
   # Secondary color (TBD)
   secondary:
   # Default theme mode initial value (will be overwritten by prefer-color-scheme)
-  default_mode: light # light, dark
+  default_mode: dark # light, dark
 # COLORS <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 # SITE CUSTOMIZATION >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
@@ -154,16 +154,16 @@ home_banner:
   # Home banner social links
   social_links:
     # Whether to enable
-    enable: false
+    enable: true
     # Social links style
     style: default # default, reverse, center
     # Social links
     links:
-      github: # your GitHub URL
+      github: https://github.com/0x0w1z # your GitHub URL
       instagram: # your Instagram URL
       zhihu: # your ZhiHu URL
       twitter: # your twitter URL
-      email: # your email
+      email: 0x0w1zx[@]ncateam.com # your email
       # ...... # you can add more
     # Social links with QRcode drawers
     qrs:
@@ -175,11 +175,11 @@ home_banner:
 # Docs: https://redefine-docs.ohevan.com/home/navbar
 navbar:
   # Auto hide navbar
-  auto_hide: false
+  auto_hide: true
   # Navbar background color
   color:
-    left: "#f78736" #left side
-    right: "#367df7" #right side
+    left: transparent #left side
+    right: transparent #right side
     transparency: 35 #percent (10-99)
   # Navbar width (usually no need to modify)
   width:
@@ -191,6 +191,9 @@ navbar:
       path: /
       icon: fa-regular fa-house # can be empty
     # Archives:
+    Tags:
+      path: /tags/
+      icon: fa-regular fa-tags
     #   path: /archives
     #   icon: fa-regular fa-archive # can be empty
     # Status:
@@ -232,12 +235,13 @@ home:
       # Archives:
       #   path: /archives
       #   icon: fa-regular fa-archive # can be empty
-      # Tags:
-      #   path: /tags
+      Tags:
+        path: /tags/
       #   icon: fa-regular fa-tags # can be empty
-      # Categories:
-      #   path: /categories
-      #   icon: fa-regular fa-folder # can be empty
+      Categories:
+        path: /categories/
+        icon: fa-regular fa-folder # can be empty
+
       # ...... # you can add more
   # Article date format
   article_date_format: auto # auto, relative, YYYY-MM-DD, YYYY-MM-DD HH:mm:ss etc.
@@ -245,7 +249,7 @@ home:
   excerpt_length: 200 # Max length of article excerpt
   # Article categories visibility
   categories:
-    enable: false # Whether to enable
+    enable: true # Whether to enable
     limit: 3 # Max number of categories to display
   # Article tags visibility
   tags:
@@ -303,7 +307,7 @@ articles:
   # Whether to enable copyright notice
   copyright:
     enable: true # Whether to enable
-    default: cc_by_nc_sa # Default license, can be cc_by_nc_sa, cc_by_nd, cc_by_nc, cc_by_sa, cc_by, all_rights_reserved, public_domain
+    default: all_rights_reserved # Default license, can be cc_by_nc_sa, cc_by_nd, cc_by_nc, cc_by_sa, cc_by, all_rights_reserved, public_domain
   # Whether to enable lazyload for images
   lazyload: true
   # Article recommendation. Requires nodejieba (npm install nodejieba). Transplanted from hexo-theme-volantis.
@@ -435,7 +439,7 @@ page_templates:
   # Friend Links page column number
   friends_column: 2
   # Tags page style
-  tags_style: blur # blur, cloud
+  tags_style: cloud # blur, cloud
 # PAGE TEMPLATES <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 # CDN >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
