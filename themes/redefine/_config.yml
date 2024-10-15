@@ -201,9 +201,7 @@ navbar:
       path: /tags/
       icon: fa-regular fa-tags
     
-     About:
-        path: /about/
-       icon: fa-regular fa-user
+     
     #     Github: https://github.com/EvanNotFound/hexo-theme-redefine
     #     Blog: https://ohevan.com
     #     Friends: /friends
@@ -243,6 +241,9 @@ home:
       Categories:
         path: /categories/
         icon: fa-regular fa-folder # can be empty
+      About:
+        path: /about/
+       icon: fa-regular fa-user
 
       # ...... # you can add more
   # Article date format
