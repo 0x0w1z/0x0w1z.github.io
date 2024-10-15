@@ -6,6 +6,8 @@ tags:
   - NCA-CTF
   - Writeups
   - Created-CTFs
+category: CTFs
+cover: "/images/charmandar/4.png"
 ---
 
 This challenge was Simple forensics challenge which i created for the NCA-CTF where players were given an image which was corrupted and the flag was hidden in there.

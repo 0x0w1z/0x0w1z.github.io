@@ -13,7 +13,6 @@ info:
   title: 0x0w1z
   # Author name
   author: 0x0w1z
-  icon: fa-regular fa-user
   # Site URL
   url: https://0x0w1zx.netlify.app
 # BASIC INFORMATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
@@ -200,10 +199,10 @@ navbar:
     # Status:
     #   path: https://status.ohevan.com/
     #   icon: fa-regular fa-chart-bar
-    # About:
-    #   icon: fa-regular fa-user
-    #   submenus:
-    #     Me: /about
+     About:
+       icon: fa-regular fa-user
+       submenus:
+         Me: /about/
     #     Github: https://github.com/EvanNotFound/hexo-theme-redefine
     #     Blog: https://ohevan.com
     #     Friends: /friends

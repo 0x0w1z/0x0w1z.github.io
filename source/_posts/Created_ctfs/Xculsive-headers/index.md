@@ -6,6 +6,8 @@ Tags:
   - NCA-CTF
   - Writeups
   - Created-CTFs
+category: CTFs
+cover: "/images/xclu/2.png"
 ---
 
 This challenge was made for the CTF which was organised by our team
