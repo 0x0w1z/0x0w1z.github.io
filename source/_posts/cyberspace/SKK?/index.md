@@ -9,7 +9,7 @@ Tags:
 
 In this challenge by CyberSpace we were given a picture named enc.png and the python source code which was used to add shapes or used make the picture pixelated, the encoded picture looked like this.
 
-![](/image/skk1.png)
+![](/image/1.png)
 
 The python code which was provided and the one which was used to encode this was this :
 
@@ -162,6 +162,6 @@ cv2.imwrite('flag.png', dec_img)
 
 and then used this code in the same directory where the enc.png was and it gave me the decoded image file named flag.png.
 
-![](/images/skk2.png)
+![](/images/2.png)
 
 flag: CSCTF{why_SKK_image_encryption_sooo.weak}
