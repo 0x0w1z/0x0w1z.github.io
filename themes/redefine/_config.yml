@@ -114,8 +114,8 @@ home_banner:
   style: fixed # static or fixed
   # Home banner image
   image:
-    light: /images/back.jpg # light mode
-    dark: /images/back.jpg # dark mode
+    light: /images/steinsgate.jpg # light mode
+    dark: /images/steinsgate.jpg # dark mode
   # Home banner title
   title: 0x0w1z's Blogs
   # Home banner subtitle
