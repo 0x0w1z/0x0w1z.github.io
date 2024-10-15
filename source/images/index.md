@@ -13,7 +13,7 @@ In this challenge by CyberSpace we were given a picture named enc.png and the py
 
 The python code which was provided and the one which was used to encode this was this :
 
-```
+```python
 import numpy as np
 import cv2
 import random
