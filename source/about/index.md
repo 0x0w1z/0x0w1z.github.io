@@ -26,8 +26,7 @@
 - 🚀 Developement of Web Pages | Forensics
 - 🛠️ Always after the next CTF challenge!
 
-**Peek into my projects:** [GitHub Portfolio](https://github.com/0x0w1z)  
-**Latest writeups:** [/posts](https://0x0w1z.github.io/)
+**Peek into my projects:** [GitHub Portfolio](https://github.com/0x0w1z)
 
 ### **Ask me about:**
 
