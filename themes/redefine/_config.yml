@@ -156,14 +156,17 @@ home_banner:
     # Whether to enable
     enable: true
     # Social links style
-    style: default # default, reverse, center
+    style: center # default, reverse, center
     # Social links
     links:
       github: https://github.com/0x0w1z # your GitHub URL
       instagram: # your Instagram URL
       zhihu: # your ZhiHu URL
-      twitter: # your twitter URL
+      twitter: https://x.com/0x0w1z # your twitter URL
       email: 0x0w1zx[@]ncateam.com # your email
+      linkedin: https://www.linkedin.com/in/sarams-rauniyar-42593b220/
+      discord: https://discord.com/users/1006628573920100392
+      medium: https://medium.com/@0x0w1z
       # ...... # you can add more
     # Social links with QRcode drawers
     qrs:
