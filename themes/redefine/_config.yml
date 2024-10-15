@@ -237,6 +237,7 @@ home:
       #   icon: fa-regular fa-archive # can be empty
       Tags:
         path: /tags/
+        icon: fa-regular fa-tags
       #   icon: fa-regular fa-tags # can be empty
       Categories:
         path: /categories/
