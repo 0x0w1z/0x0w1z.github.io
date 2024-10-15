@@ -5,11 +5,12 @@ draft: false
 Tags:
   - Cyberspace
   - Writeups
+cover: "images/2.png"
 ---
 
 In this challenge by CyberSpace we were given a picture named enc.png and the python source code which was used to add shapes or used make the picture pixelated, the encoded picture looked like this.
 
-![](/image/1.png)
+![](/images/1.png)
 
 The python code which was provided and the one which was used to encode this was this :
 
