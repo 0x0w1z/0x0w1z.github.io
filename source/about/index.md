@@ -28,6 +28,10 @@
 
 **Peek into my projects:** [GitHub Portfolio](https://github.com/0x0w1z)
 
+## **My Friends**
+
+- **_[At0m/Molecules (Dumb)](https://at0ms-organization.gitbook.io/at0ms-shell)_**
+
 ### **Ask me about:**
 
 - Penetration Testing 💻
