@@ -39,4 +39,4 @@
 - Python Programming 🐍
 - Javascript
 
-### **Reach me at:** `0x0w1zx [at] nca.xyz`
+### **Reach me at:** `0x0w1zx [at] gmail.com`
