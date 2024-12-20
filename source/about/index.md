@@ -8,7 +8,7 @@
 
 ```
 
-## Cyber Sec nerd | Web Dev | CTF Player 🛡️
+## Cyber Sec nerd | Web Dev | Security Researcher | CTF Player 🛡️
 
 ### **Personals:**
 
@@ -17,13 +17,13 @@
 
 ### **Current Hustles:**
 
-- 🧑🏻‍💻 Learning Web development | Learning Reverse Engineering
-- </> Assembly | Python | Javascript
+- 🧑🏻‍💻 Learning Web development | Learning Cryptography
+- </> Assembly | Python | Javascript 
 - 🗡 Bug Hunting
 
 ### **On My Radar:**
 
-- 🚀 Developement of Web Pages | Forensics
+- 🚀 Developement of Web Pages | Forensics | Cryptography
 - 🛠️ Always after the next CTF challenge!
 
 **Peek into my projects:** [GitHub Portfolio](https://github.com/0x0w1z)
@@ -38,5 +38,6 @@
 - Web development 🌐
 - Python Programming 🐍
 - Javascript
-
+- Digital Forensics
+- Cryptography
 ### **Reach me at:** `0x0w1zx [at] gmail.com`

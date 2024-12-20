@@ -6,7 +6,7 @@
 # DEMO: https://redefine.ohevan.com
 # <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 title: 0x0w1z
-description: "Hi, 0x0w1z! A vault for Security and CTF. NCA{0x0w1z>f14g!?}"
+description: "Hi, 0x0w1z! A vault for Security and CTF. f14g{0x0w1z's_vault}"
 keywords: [Blog, Portfolio, Writeup]
 author: Me
 # BASIC INFORMATION >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
@@ -24,11 +24,11 @@ info:
 # Docs: https://redefine-docs.ohevan.com/basic/defaults
 defaults:
   # Favicon
-  favicon: /images/kurisu.png
+  favicon: /images/profile.jpg
   # Site logo
-  logo: /images/makise.png
+  logo: /images/profile.jpg
   # Site avatar
-  avatar: /images/kurisu.png
+  avatar: /images/profile.jpg
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 # COLORS >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
@@ -117,13 +117,13 @@ home_banner:
   style: fixed # static or fixed
   # Home banner image
   image:
-    light: /images/steinsgate.jpg # light mode
-    dark: /images/steinsgate.jpg # dark mode
+    light: /images/mt.jpg # light mode
+    dark: /images/mt.jpg # dark mode
   # Home banner title
   title: 0x0w1z's Blogs
   # Home banner subtitle
   subtitle:
-    text: [] # subtitle text, array
+    text: ['0x0w1z','Cyber Security Enthusiast', 'Digital Forensic', 'Security Reasearcher', 'Cryptography', 'CTF-Player'] # subtitle text, array
     hitokoto: # 一言配置
       enable: false # Whether to enable hitokoto
       show_author: false # Whether to show author
@@ -136,14 +136,14 @@ home_banner:
     smart_backspace: true # Whether to smart backspace
   # Color of home banner text
   text_color:
-    light: "#fff" # light mode
-    dark: "#d1d1b6" # dark mode
+    light: "#ffffff" # light mode
+    dark: "#ffffff" # dark mode
   # Specific style of the text
   text_style:
     # Title font size
     title_size: 2.8rem
     # Subtitle font size
-    subtitle_size: 1.5rem
+    subtitle_size: 2rem
     # Line height between title and subtitle
     line_height: 1.2
   # Home banner custom font
@@ -166,7 +166,7 @@ home_banner:
       instagram: # your Instagram URL
       zhihu: # your ZhiHu URL
       twitter: https://x.com/0x0w1z # your twitter URL
-      email: 0x0w1zx[@]ncateam.com # your email
+      email: 0x0w1zx[@]gmail.com # your email
       linkedin: https://www.linkedin.com/in/sarams-rauniyar-42593b220/
       discord: https://discord.com/users/1006628573920100392
       medium: https://medium.com/@0x0w1z
@@ -186,7 +186,7 @@ navbar:
   color:
     left: transparent #left side
     right: transparent #right side
-    transparency: 35 #percent (10-99)
+    transparency: 10 #percent (10-99)
   # Navbar width (usually no need to modify)
   width:
     home: 1200px #home page
@@ -206,11 +206,11 @@ navbar:
 
     #     Github: https://github.com/EvanNotFound/hexo-theme-redefine
     #     Blog: https://ohevan.com
-    #     Friends: /friends
-    # Links:
-    #   icon: fa-regular fa-link
-    #   submenus:
-    #     Link1: /link1
+    #      Friends: /friends
+    #Links:
+    #  icon: fa-regular fa-link
+    #  submenus:
+    #    Link1: /link1
     #     Link2: /link2
     #     Link3: /link3
     # ...... # you can add more
@@ -233,9 +233,9 @@ home:
     announcement: # Announcement text
     show_on_mobile: true # Whether to show sidebar navigation on mobile sheet menu
     links:
-      # Archives:
-      #   path: /archives
-      #   icon: fa-regular fa-archive # can be empty
+      #Archives:
+      #  path: /archives
+      #  icon: fa-regular fa-archive # can be empty
       Tags:
         path: /tags/
         icon: fa-regular fa-tags
